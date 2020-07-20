@@ -1,0 +1,602 @@
+ [
+    {
+       "SourceName":"timesofindia.indiatimes.com",
+       "SourceUrl":"https://timesofindia.indiatimes.com/",
+       "SourceLocation":"New Delhi, Delhi,  India",
+       "SourceDescription":"About Site - Times of India brings the Latest News & Breaking News Headlines from India & around the World. Read Latest News Today on Sports, Business, Health & Fitness, Bollywood & Entertainment, Blogs & Opinions from leading columnists. Frequency 30 posts / day ",
+       "SourceLogo":"https://i1.feedspot.com/648532.jpg?t=1570176958",
+       "SourceRSS":"https://timesofindia.indiatimes.com/rssfeedstopstories.cms?x=1"
+    },
+    {
+       "SourceName":"ndtv.com",
+       "SourceUrl":"https://www.ndtv.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - NDTV.com provides latest news from India and the world. Get today's news headlines from Business, Technology, Bollywood, Cricket, videos, photos, live news coverage and exclusive breaking news from India. Frequency 30 posts / day ",
+       "SourceLogo":"https://i1.feedspot.com/702585.jpg",
+       "SourceRSS":"http://feeds.feedburner.com/NDTV-LatestNews"
+    },
+    {
+       "SourceName":"indiatoday.in",
+       "SourceUrl":"https://www.indiatoday.in/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Check out the latest news from India and around the world. Latest India news on Bollywood, Politics, Business, Cricket, Technology and Travel. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.indiatoday.in/rss/1206578"
+    },
+    {
+       "SourceName":"indianexpress.com",
+       "SourceUrl":"https://indianexpress.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Indian Express covers latest news from India, all exclusive current headlines and India news live, including hot topics, latest breaking news on business, sports, world and entertainment with exclusive Opinions and Editorials. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://indianexpress.com/feed/"
+    },
+    {
+       "SourceName":"thehindu.com",
+       "SourceUrl":"https://www.thehindu.com/",
+       "SourceLocation":"Chennai, Tamil Nadu, India",
+       "SourceDescription":"About Site - Latest news, analysis, comment, in-depth coverage of politics, business, sport, environment, cinema and arts from India's national newspaper. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.thehindu.com/news/national/?service=rss"
+    },
+    {
+       "SourceName":"news18.com",
+       "SourceUrl":"https://www.news18.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Read CNN News18 breaking news, latest news from India & World including current news headlines on politics, cricket, business, entertainment and more only on News18.com. Frequency 26 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.news18.com/rss/india.xml"
+    },
+    {
+       "SourceName":"firstpost.com",
+       "SourceUrl":"https://www.firstpost.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Latest News Headlines: Firstpost covers Latest India News, Top Todays Breaking News on Business, India, World, Politics, Entertainment and Sports - Firstpost.com Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.firstpost.com/feed/rss"
+    },
+    {
+       "SourceName":"business-standard.com",
+       "SourceUrl":"https://www.business-standard.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Business Standard, India's leading business site for Live Markets, Live BSE & NSE quotes, latest news, breaking news, political news, analysis and opinion on markets, companies, industry, economy, policy, banking and personal finance news and more. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.business-standard.com/rss/latest.rss"
+    },
+    {
+       "SourceName":"dnaindia.com",
+       "SourceUrl":"https://www.dnaindia.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - dnaindia.com delivers news and information on the latest top stories, sport, entertainment, business, technology, Mumbai, India, world and more. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.dnaindia.com/feeds/india.xml"
+    },
+    {
+       "SourceName":"deccanchronicle.com",
+       "SourceUrl":"https://www.deccanchronicle.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Deccan Chronicle brings you the latest news, views, analysis and images from India and the world. Frequency 27 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.deccanchronicle.com/rss_feed/"
+    },
+    {
+       "SourceName":"oneindia.com",
+       "SourceUrl":"https://www.oneindia.com/",
+       "SourceLocation":"Bangalore,  Karnataka, India",
+       "SourceDescription":"About Site - Oneindia is a large online portal that brings Breaking & Latest current news headlines from india on Politics, Sports, Current Affairs in India & around the world. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.oneindia.com/rss/news-india-fb.xml"
+    },
+    {
+       "SourceName":"scroll.in",
+       "SourceUrl":"https://scroll.in/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Scroll is an independent news venture started by an award winning team of journalists. We offer a newsfeed that brings into sharp focus the most important political and cultural stories that are shaping contemporary India. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://feeds.feedburner.com/ScrollinArticles.rss"
+    },
+    {
+       "SourceName":"financialexpress.com",
+       "SourceUrl":"https://www.financialexpress.com/",
+       "SourceLocation":"New Delhi, India",
+       "SourceDescription":"About Site - Business News Headlines, Financial News India Stock Market News, Live Stocks, Economy News. Check out the latest business news headlines including Market analysis on Mutual funds, commodities forex, personal finance, IPO news, Live BSE and NSE stock price at The Financial Express. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.financialexpress.com/feed"
+    },
+    {
+       "SourceName":"thehindubusinessline.com",
+       "SourceUrl":"https://www.thehindubusinessline.com/",
+       "SourceLocation":"Chennai, India",
+       "SourceDescription":"About Site - BusinessLine India's leading website for business and financial news, BSE and NSE quotes, stock recommendations, market analysis and research, politics, gadgets & auto. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.thehindubusinessline.com/?service=rss"
+    },
+    {
+       "SourceName":"dkoding.in",
+       "SourceUrl":"https://www.dkoding.in/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - DKODING as the name suggests is on a crusade to bring out the 'The other side of the story' in a world drowning with fury and frenzy. It provides deeper insights and perspectives to burning issues through a narrative that is fresh, fearless & fiery. Frequency 25 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.dkoding.in/feed/"
+    },
+    {
+       "SourceName":"telanganatoday.com",
+       "SourceUrl":"https://telanganatoday.com/",
+       "SourceLocation":"Hyderabad, Telangana, India",
+       "SourceDescription":"About Site - Telangana Today English Daily brings latest and authentic news about Telangana and also on a variety of subjects like Business, Information Technology, Sports, World News and National News. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://telanganatoday.com/feed"
+    },
+    {
+       "SourceName":"outlookindia.com",
+       "SourceUrl":"https://www.outlookindia.com/",
+       "SourceLocation":"New Delhi, India",
+       "SourceDescription":"About Site - Outlook India is a weekly English News magazine published in India. It provides the latest news on politics, cricket, sports, cinema and business news from India and worldwide. Read the latest Bollywood news & Politics news online. Frequency 30 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.outlookindia.com/rss/home"
+    },
+    {
+       "SourceName":"thequint.com",
+       "SourceUrl":"https://www.thequint.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Get the latest political news and analyses, sports and business news at The Quint. Catch the latest Bollywood gossip, latest technology and more. Stay connected with www.thequint.com to stay updated. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://prod-qt-images.s3.amazonaws.com/production/thequint/feed.xml"
+    },
+    {
+       "SourceName":"hindi.thebetterindia.com",
+       "SourceUrl":"https://hindi.thebetterindia.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - India's largest media platform for uplifting stories and social impact. Frequency 7 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://hindi.thebetterindia.com/feed"
+    },
+    {
+       "SourceName":"freepressjournal.in",
+       "SourceUrl":"https://www.freepressjournal.in/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Free Press Journal offers today's latest news from India, Current News in Politics, Cricket, Bollywood, Television, Opinion, Analysis and Features on Food, Travel, Health. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.freepressjournal.in/feed"
+    },
+    {
+       "SourceName":"socialsamosa.com",
+       "SourceUrl":"http://www.socialsamosa.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Indian Social Media blog covering social media news, insights, how-tos, case studies, app reviews, interviews, jobs & events. Facebook & Twitter tips. Frequency 7 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://feeds.feedburner.com/SocialSamosa"
+    },
+    {
+       "SourceName":"tentaran.com",
+       "SourceUrl":"https://www.tentaran.com/",
+       "SourceLocation":"New Delhi, Delhi, India",
+       "SourceDescription":"About Site - A Digital News Magazine Focused on providing Bite-sized, crisp and to the point Infotainment news, we cover various verticals to keep our audience of diverse interests, ages and genres up-to-date with interesting infotainment content around them as also to keep them abreast with latest curated products and services that lead to sharing their burden of day-to-day life and work. Frequency 10 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.tentaran.com/feed/"
+    },
+    {
+       "SourceName":"topyaps.com",
+       "SourceUrl":"https://topyaps.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - TopYaps is India's youngest and most original desi social adda for the modern young. We dig beyond the normal everyday headlines to give young Indians a fresh take on what's going in the ever-trending social world. Frequency 9 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://topyaps.com/feed/"
+    },
+    {
+       "SourceName":"asianage.com",
+       "SourceUrl":"https://www.asianage.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - The Asian Age was launched in 1994 as India's first global newspaper, with a special emphasis on international news coverage and editions in Delhi, Mumbai and London. Frequency 28 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.asianage.com/rss_feed/"
+    },
+    {
+       "SourceName":"dailyexcelsior.com",
+       "SourceUrl":"https://www.dailyexcelsior.com/",
+       "SourceLocation":"Jammu And Kashmir, India",
+       "SourceDescription":"About Site - EXCELSIOR HOUSE is a diversified news and information group, which primarily indulges in newspaper publishing. Daily Excelsior The Largest Circulated Daily of Jammu & Kashmir. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.dailyexcelsior.com/feed"
+    },
+    {
+       "SourceName":"techgenyz.com",
+       "SourceUrl":"https://www.techgenyz.com/",
+       "SourceLocation":"Kolkata, India",
+       "SourceDescription":"About Site - TechGenYZ is a leading platform of news and information on latest Technology, Social Media, Startup, Digital Innovation and more, which influence the people around the world. A tech community for connected generation. Frequency 11 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.techgenyz.com/feed/"
+    },
+    {
+       "SourceName":"orissapost.com",
+       "SourceUrl":"https://www.orissapost.com/",
+       "SourceLocation":"Bhubaneshwar, India",
+       "SourceDescription":"About Site - A leading English language newspaper from Orissa. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.orissapost.com/feed/"
+    },
+    {
+       "SourceName":"chandigarhmetro.com",
+       "SourceUrl":"https://chandigarhmetro.com/",
+       "SourceLocation":"Chandigarh, India",
+       "SourceDescription":"About Site - Chandigarh Metro is the first & the largest local news website of Chandigarh. Know Chandigarh metro news, events & all that's happening in the city. Frequency 1 post / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://chandigarhmetro.com/feed/"
+    },
+    {
+       "SourceName":"yovizag.com",
+       "SourceUrl":"https://www.yovizag.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Our journey is 9 long years old and we take pride to say that we are the most loved and appreciated magazine and portal in the port city of Vizag. Frequency 5 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.yovizag.com/feed/"
+    },
+    {
+       "SourceName":"teluguglobal.in",
+       "SourceUrl":"http://www.teluguglobal.in/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Telugu Global is intended to give news with Live Updates with analysis over latest political issues and telugu movie reviews. Frequency 14 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.teluguglobal.in/feed/"
+    },
+    {
+       "SourceName":"nagpurtoday.in",
+       "SourceUrl":"http://www.nagpurtoday.in/",
+       "SourceLocation":"Nagpur, Maharashtra, India",
+       "SourceDescription":"About Site - Nagpur Daily News Website brings you Nagpur breaking,sports,entertainment news as it happens Live. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.nagpurtoday.in/feed"
+    },
+    {
+       "SourceName":"arunachaltimes.in",
+       "SourceUrl":"https://arunachaltimes.in/",
+       "SourceLocation":"Itanagar, India",
+       "SourceDescription":"About Site - The Arunachal Times offers Arunachal News, North East News, National News, World News etc. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://arunachaltimes.in/index.php/feed/"
+    },
+    {
+       "SourceName":"easternherald.com",
+       "SourceUrl":"https://www.easternherald.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Eastern Herald is one of the Premium News Portal. It brings News direct from the source. Get latest & Breaking News and Articles on Government and Politics, Religion & Persecution, Entertainment Frequency 8 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.easternherald.com/feed"
+    },
+    {
+       "SourceName":"thetimesofbengal.com",
+       "SourceUrl":"http://www.thetimesofbengal.com/",
+       "SourceLocation":"Kolkata, India",
+       "SourceDescription":"About Site - A fully infotainment based news portal working only to promote West Bengal as dreamed by our Chief Minister Mamata Bannerjee. Frequency 7 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.thetimesofbengal.com/feed/"
+    },
+    {
+       "SourceName":"abcrnews.com",
+       "SourceUrl":"http://www.abcrnews.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Latest India or world news and trending news on Politics, Breaking news on Business, Sports, Bollywood, technology, science & health. Frequency 1 post / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.abcrnews.com/feed/"
+    },
+    {
+       "SourceName":"bhaskarlive.in",
+       "SourceUrl":"https://www.bhaskarlive.in/",
+       "SourceLocation":"Bhopal, Madhya Pradesh, India",
+       "SourceDescription":"About Site - Bhaskar Live covers Latest News, Breaking News, National News, Business News, Entertainment News, Sports News, Political News, Top Stories, Trending Topics, Videos & Photos Frequency 20 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.bhaskarlive.in/feed"
+    },
+    {
+       "SourceName":"starofmysore.com",
+       "SourceUrl":"https://starofmysore.com/",
+       "SourceLocation":"Mysore, India",
+       "SourceDescription":"About Site - Star Of Mysore is an Evening Daily of the city of Mysuru. Read all the latest, breaking and exclusive news, updates about Mysore with photos and videos. Frequency 12 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://starofmysore.com/feed/"
+    },
+    {
+       "SourceName":"gossipganj.com",
+       "SourceUrl":"https://www.gossipganj.com/",
+       "SourceLocation":"Mumbai, India",
+       "SourceDescription":"About Site - From latest Gossips, to link ups to the latest teasers, trailers, songs, movie previews and reviews, to box- office collection along with TV Shows. Frequency 4 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.gossipganj.com/feed"
+    },
+    {
+       "SourceName":"leagueofindia.com",
+       "SourceUrl":"https://leagueofindia.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - League of India is the first 'news action tank' that is committed to the idea of shaping a progressive India by fostering centre-right liberal governance, a free economy and an open society. Comprehensively liberal on all matters, we advocate the primacy of national interest in all conflicts, internal or otherwise. Frequency 3 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://leagueofindia.com/feed/"
+    },
+    {
+       "SourceName":"navhindtimes.in",
+       "SourceUrl":"http://www.navhindtimes.in/",
+       "SourceLocation":"Goa, India",
+       "SourceDescription":"About Site - The first English newspaper of Goa, published in 1963 immediately after liberation from Portuguese Rule. Today, the Navhind Times is Goa's leading English daily. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.navhindtimes.in/feed/"
+    },
+    {
+       "SourceName":"newstodaynet.com",
+       "SourceUrl":"https://newstodaynet.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Chennai's No 1 English Evening Daily Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://newstodaynet.com/index.php/feed/"
+    },
+    {
+       "SourceName":"indiataazakhabar.com",
+       "SourceUrl":"https://indiataazakhabar.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Latest News Updates -We provide the latest news from India and the world. Get today's news headlines from Business, Technology, Entertainment, Sports, Health, World. Frequency 1 post / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://indiataazakhabar.com/feed"
+    },
+    {
+       "SourceName":"risingkashmir.com",
+       "SourceUrl":"http://www.risingkashmir.com/",
+       "SourceLocation":"Srinagar, Jammu And Kashmir, India",
+       "SourceDescription":"About Site - Rising Kashmir provides the most comprehensive coverage news, breaking news, videos, information on Kashmir, politics, cricket and more. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.risingkashmir.com/rss"
+    },
+    {
+       "SourceName":"knnindia.co.in/home",
+       "SourceUrl":"https://knnindia.co.in/home",
+       "SourceLocation":"New Delhi, India",
+       "SourceDescription":"About Site - KNN India offering the India exclusive Micro, Small and Medium Enterprises (MSME) news, views, events and blogs. Frequency 6 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://knnindia.co.in/newsfeed/feedbycategory"
+    },
+    {
+       "SourceName":"indianyug.com",
+       "SourceUrl":"https://indianyug.com/",
+       "SourceLocation":"Delhi NCR, India",
+       "SourceDescription":"About Site - IndianYug is a news and media company from India. It explores information beyond your daily news and digs deeper to find why and how it matters to you. Frequency 1 post / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://indianyug.com/feed"
+    },
+    {
+       "SourceName":"desidozz.com",
+       "SourceUrl":"https://desidozz.com/",
+       "SourceLocation":"Itarsi, Madhya Pradesh, India",
+       "SourceDescription":"About Site - DesiDozz.com is Hindi wiki website covering Lifestyle, Fashion, Religion, health, Astrology, vastushastra, Yatra and all desi indians life Aspect. Frequency 6 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://desidozz.com/feed"
+    },
+    {
+       "SourceName":"thelivenagpur.com",
+       "SourceUrl":"https://thelivenagpur.com/",
+       "SourceLocation":"Nagpur, India",
+       "SourceDescription":"About Site - The Live Nagpur is a 24-hour online news portal operating in Nagpur and adjoining areas conveying relevant and current news about the city. Frequency 14 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://thelivenagpur.com/feed"
+    },
+    {
+       "SourceName":"pressmirchi.com",
+       "SourceUrl":"https://www.pressmirchi.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Press Mirchi is the best news & infotainment website. Follow to get updates. Frequency 30 posts / year ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.pressmirchi.com/feed/"
+    },
+    {
+       "SourceName":"topblogmania.com",
+       "SourceUrl":"https://www.topblogmania.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Find the latest news, biography, today's news, current affairs, technology and entertainment Frequency 2 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.topblogmania.com/feed/"
+    },
+    {
+       "SourceName":"letmethink.in",
+       "SourceUrl":"https://letmethink.in/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - All Latest News and Updates on Entertainment, Technology. Frequency 3 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://letmethink.in/feed"
+    },
+    {
+       "SourceName":"headlinesoftoday.com",
+       "SourceUrl":"https://www.headlinesoftoday.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Breaking News, Latest News, World News, India News, Cricket, Videos & Photos Frequency 6 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.headlinesoftoday.com/feed"
+    },
+    {
+       "SourceName":"quintdaily.com",
+       "SourceUrl":"https://quintdaily.com/",
+       "SourceLocation":"United States",
+       "SourceDescription":"About Site - The Quint (quintdaily.com) is an online-only news portal that covers every nook and corner of India and brings to its readers the latest in Indian News, Bollywood News, Sports News, Political News, Gadget News, Food and Travel related news and articles. Frequency 3 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://quintdaily.com/feed/"
+    },
+    {
+       "SourceName":"tricksnhub.com",
+       "SourceUrl":"https://tricksnhub.com/",
+       "SourceLocation":"Jaipur,  Rajasthan, India",
+       "SourceDescription":"About Site - All in one destination for latest breaking news, India news, entertainment, sports, how-to guide, blogging tutorial & earn money online. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://tricksnhub.com/feed"
+    },
+    {
+       "SourceName":"gudstory.com",
+       "SourceUrl":"https://www.gudstory.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Gudstory.com is your one-stop shop destination to get acquainted about all the latest updates revolving around you. On our platform, we publish the latest viral stories related to News, Lifestyle, Fashion, Entertainment, Technology, and Women. It aims to make you smart enough to get all the updates using vivid formats and interesting styles to keep you up and engaged. Frequency 9 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.gudstory.com/feed/"
+    },
+    {
+       "SourceName":"news.statetimes.in",
+       "SourceUrl":"http://news.statetimes.in/",
+       "SourceLocation":"Delhi, India",
+       "SourceDescription":"About Site - Read all Jammu News Headlines from Jammu Local News Paper, State Times, leading News Paper of Jammu and Kashmir. Get update on Jammu Breaking News on Politics, Crime, Business, Economy and other topics. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://news.statetimes.in/feed/"
+    },
+    {
+       "SourceName":"latestnews1.com",
+       "SourceUrl":"https://www.latestnews1.com/",
+       "SourceLocation":"New Delhi, India",
+       "SourceDescription":"About Site - Latestnews1 is a leading online News sharing desk in India. We are providing genuine News and Facts in all over India of following Topics National, and Internat. Frequency 10 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.latestnews1.com/feed/"
+    },
+    {
+       "SourceName":"devbhoomimedia.com",
+       "SourceUrl":"https://www.devbhoomimedia.com/",
+       "SourceLocation":"Dehradun, India",
+       "SourceDescription":"About Site - Stay tuned on trusted online Uttarakhand News live portal. Which cover complete Uttarakhand latest news & Dehradun News dedicatedly. Here you can read all the Uttarakhand news in Hindi. Frequency 12 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.devbhoomimedia.com/feed"
+    },
+    {
+       "SourceName":"hydnews.net",
+       "SourceUrl":"http://www.hydnews.net/",
+       "SourceLocation":"Hyderabad, Telangana, India",
+       "SourceDescription":"About Site - #KhabarLive Hyderabad is a news and media company based out of Hyderabad, Telangana. Frequency 18 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.hydnews.net/feed"
+    },
+    {
+       "SourceName":"news4masses.com",
+       "SourceUrl":"https://news4masses.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - News, Reviews, Surveys and Trends. N4M Media is your one-stop, digital destination Frequency 9 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://news4masses.com/feed"
+    },
+    {
+       "SourceName":"sinceindependence.com",
+       "SourceUrl":"https://www.sinceindependence.com/",
+       "SourceLocation":"Jaipur, India",
+       "SourceDescription":"About Site - Since independence provides Latest News Headlines & Breaking news on Politics, Business, Sports, Technology, Health, Entertainment, Lifestyle. Frequency 23 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.sinceindependence.com/feed/"
+    },
+    {
+       "SourceName":"metrorailnews.info",
+       "SourceUrl":"https://www.metrorailnews.info/",
+       "SourceLocation":"Hyderabad, Telangana, India",
+       "SourceDescription":"About Site - The Metro Rail News is founded by an individual professional to help the Metro and Railway fraternity by providing and sharing the News, Jobs, tenders, new technology, projects progress updates and many more. Frequency 1 post / quarter ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.metrorailnews.info/feed/"
+    },
+    {
+       "SourceName":"doonhorizon.in",
+       "SourceUrl":"https://doonhorizon.in/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Doon Horizon was born as a bilingual weekly newspaper committed to constructive, crusading journalism. As a people's paper geared to take a stand, to follow the hard investigative story. A fearless paper ready to create opinion, and not just remain a passive vehicle of news. Frequency 30 posts / quarter ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://doonhorizon.in/feed/"
+    },
+    {
+       "SourceName":"ndnewsexpress.com",
+       "SourceUrl":"https://www.ndnewsexpress.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Latest news from India and around the world, Get top India news headlines, Cricket news, Indian politics and government, business news and more. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.ndnewsexpress.com/feed"
+    },
+    {
+       "SourceName":"kashmirreader.com",
+       "SourceUrl":"http://kashmirreader.com/",
+       "SourceLocation":"Jammu And Kashmir, India",
+       "SourceDescription":"About Site - A daily published from Srinagar. Launched in May 2012, Kashmir Reader is one of the leading English language newspapers of Jammu and Kashmir. It's published daily from Srinagar by Helpline Group, which earned a name and fame in serious journalism. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://feeds.feedburner.com/kashmir-reader"
+    },
+    {
+       "SourceName":"emitpost.com",
+       "SourceUrl":"https://www.emitpost.com/",
+       "SourceLocation":"Delhi, India",
+       "SourceDescription":"About Site - EmitPost.com provides latest news from India and the around the world. Get today's news headlines from Business, Technology, Bollywood, Cricket, videos and more. Frequency 7 posts / quarter ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.emitpost.com/feed"
+    },
+    {
+       "SourceName":"newsblare.com",
+       "SourceUrl":"https://www.newsblare.com/",
+       "SourceLocation":"New Delhi, India",
+       "SourceDescription":"About Site - Newsblare is a global news magazine especially organized to provide realistic News, Opinions and Business ideas. Frequency 2 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.newsblare.com/feed/"
+    },
+    {
+       "SourceName":"nayalook.com",
+       "SourceUrl":"http://www.nayalook.com/",
+       "SourceLocation":"Lucknow, Uttar Pradesh, India",
+       "SourceDescription":"About Site - Keep up with indian news from Naya Look. Frequency 30 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.nayalook.com/feed"
+    },
+    {
+       "SourceName":"smarttechtoday.com",
+       "SourceUrl":"http://www.smarttechtoday.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Smarttechtoday is an online news portal that is one of the leading global 24-hour news networks that is known as a respected and trusted source of information and news. Whether you are interested in technology, entertainment, science, health, politics, sports, education, travel or world news, you can get any kind of information happening all around the world. Frequency 8 posts / month ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.smarttechtoday.com/feed"
+    },
+    {
+       "SourceName":"thenorthlines.com",
+       "SourceUrl":"http://www.thenorthlines.com/",
+       "SourceLocation":"Jammu And Kashmir, India",
+       "SourceDescription":"About Site - The Northlines is an independent source on the Web for news, facts and figures relating to Jammu, Kashmir and Ladakh and its neighborhood. The Northlines started in 1995 by the public spirited and clear thinking people who are quite familiar with the state, its history, culture, geography, ethos, politics and various socio-economic changes that the state has seen in last several decades. Frequency 16 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.thenorthlines.com/feed/"
+    },
+    {
+       "SourceName":"newsdeets.com",
+       "SourceUrl":"https://www.newsdeets.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - All Latest News India, World, Technology, Sports & Entertainment. Frequency 3 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.newsdeets.com/feed/"
+    },
+    {
+       "SourceName":"bilkulonline.com",
+       "SourceUrl":"http://www.bilkulonline.com/",
+       "SourceLocation":"Ahmedabad,  Gujarat, India",
+       "SourceDescription":"About Site - Gujarat's First English Fortnightly Newspaper. Bilkul Online offers complete latest information on news and views across the globe in general and India in particular. Frequency 3 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://www.bilkulonline.com/feed/"
+    },
+    {
+       "SourceName":"nolshinews.com",
+       "SourceUrl":"https://www.nolshinews.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - Follow to get news updates from this blog. Frequency 2 posts / day Since - Oct 2019 ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.nolshinews.com/feed"
+    },
+    {
+       "SourceName":"timesnowindia.com",
+       "SourceUrl":"https://www.timesnowindia.com/",
+       "SourceLocation":"",
+       "SourceDescription":"About Site - Times now India, All India news updates and notifications portal, get latest trends from Times now India Official portal. Frequency 7 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://www.timesnowindia.com/feeds/posts/default?alt=rss"
+    },
+    {
+       "SourceName":"creativebharat.com",
+       "SourceUrl":"http://creativebharat.com/",
+       "SourceLocation":"Pune, Maharashtra, India",
+       "SourceDescription":"About Site - Creative Bharat provides services that enable companies to innovate fearlessly. Their solutions empower individuals and institutions to grow exponentially and assist corporates to govern their operations efficiently. Their creative offerings help the business to increase its market share and make a brand impact. Frequency 6 posts / week ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"http://creativebharat.com/feed/"
+    },
+    {
+       "SourceName":"newswithchai.com",
+       "SourceUrl":"https://newswithchai.com/",
+       "SourceLocation":"India",
+       "SourceDescription":"About Site - India's First Hyperlocal Online News Network connecting India and collaborating with the world. Stay updated with latest news Frequency 7 posts / day ",
+       "SourceLogo":"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+       "SourceRSS":"https://newswithchai.com/feed/"
+    }
+ ]

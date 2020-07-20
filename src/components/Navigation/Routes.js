@@ -1,0 +1,7 @@
+export const LOGIN = "/login" 
+export const LOGOUT = "/logout" 
+export const SIGNUP = "/signup" 
+export const HOME = "/home" 
+export const SEARCH = "/search" 
+export const POST = "/post" 
+export const PROFILE = "/profile" 
